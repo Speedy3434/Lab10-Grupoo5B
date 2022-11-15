@@ -20,9 +20,7 @@ import org.junit.jupiter.api.Test;
 
 @SpringBootTest
 public class OwnerServiceTest {
-
-	private static final Logger logger = LoggerFactory.getLogger(OwnerServiceTest.class);
-	
+	private static final Logger logger = LoggerFactory.getLogger(OwnerServiceTest.class);	
 	@Autowired
    	private OwnerService ownerService;
 	/*assertEquals

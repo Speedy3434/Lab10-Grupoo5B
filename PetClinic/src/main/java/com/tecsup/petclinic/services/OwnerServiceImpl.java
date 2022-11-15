@@ -60,4 +60,10 @@ public class OwnerServiceImpl implements OwnerService{
 		return ownerRepository.findAll();
 	}
 
+	@Override
+	public Owner create(Owner owner) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

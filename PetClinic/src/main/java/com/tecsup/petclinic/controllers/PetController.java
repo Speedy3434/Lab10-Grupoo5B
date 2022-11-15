@@ -69,8 +69,6 @@ public class PetController {
 		return service.create(pet);
 	}
 	
-	
-	
 	/**
 	 * Find by id
 	 * 

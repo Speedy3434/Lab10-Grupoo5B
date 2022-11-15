@@ -24,7 +24,7 @@ public class PetServiceTest {
 	@Autowired
 	private PetService petService;
 
-	/**
+	/*assertEquals
 	 * 
 	 */
 	@Test
